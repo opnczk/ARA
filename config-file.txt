@@ -1,0 +1,31 @@
+simulation.experiments 1
+
+random.seed 100
+
+simulation.endtime 1000000
+
+network.size 10
+
+#Question 1
+#protocol.transport UniformRandomTransport
+#protocol.transport.maxdelay 500
+#protocol.transport.mindelay 5
+
+#Question2
+protocol.transportbase UniformRandomTransport
+protocol.transportbase.maxdelay 500
+protocol.transportbase.mindelay 5
+
+protocol.transport DeadlyTransport
+protocol.transport.transport transportbase
+protocol.transport.drop 0.1
+protocol.transport.faultynodes 1_3
+
+
+protocol.broadcastType ReliableBroadcast
+protocol.broadcastType.transport transport
+
+protocol.applicative ApplicativeProtocol
+protocol.applicative.broadcast broadcastType
+
+init.init Initialisation

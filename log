@@ -1,0 +1,163 @@
+Simulator: loading configuration
+ConfigProperties: File /users/nfs/Etu7/3360747/workspace-ARA/TME-PeerSim/config-file.txt loaded.
+Simulator: starting experiment 0 invoking peersim.edsim.EDSimulator
+Random seed: 100
+
+
+
+EDSimulator: resetting
+Network: no node defined, using GeneralNode
+EDSimulator: running initializers
+- Running initializer init.init: class com.sar2016.ara.tme1.Initialisation
+Should Find : 19728190
+_________________________________________________
+time 0 Node 0 make broadcast
+EDSimulator: loaded controls []
+Current time: 16
+time 16 Node 8 receive message plus from 0 : 1
+time 42 Node 7 receive message plus from 0 : 1
+time 60 Node 7 receive message fois from 0 : 1
+time 77 Node 2 receive message plus from 0 : 1
+time 77 Node 9 receive message plus from 0 : 1
+time 78 Node 0 receive message plus from 0 : 1
+time 83 Node 6 receive message plus from 0 : 1
+time 93 Node 0 receive message fois from 0 : 1
+time 99 3 est mort en envoyant un message à 2
+time 99 Node 3 receive message plus from 0 : 1
+time 129 1 est mort en envoyant un message à 3
+time 129 Node 1 receive message plus from 0 : 1
+time 137 Node 6 receive message fois from 0 : 1
+time 198 Node 2 receive message fois from 0 : 1
+_________________________________________________
+time 198 Node 2 make broadcast
+time 202 Node 8 receive message fois from 0 : 1
+time 208 Node 4 receive message fois from 0 : 1
+time 217 Node 5 receive message plus from 0 : 1
+time 225 Node 5 receive message fois from 0 : 1
+time 254 Node 4 receive message plus from 0 : 1
+time 298 Node 9 receive message plus from 2 : 3
+time 326 Node 5 receive message plus from 2 : 3
+time 330 Node 9 receive message fois from 0 : 1
+time 347 Node 6 receive message plus from 2 : 3
+time 348 Node 4 receive message plus from 2 : 3
+time 354 Node 8 receive message plus from 2 : 3
+time 361 Node 2 receive message plus from 2 : 3
+time 386 Node 0 receive message plus from 2 : 3
+time 395 Node 7 receive message plus from 2 : 3
+time 432 Node 5 receive message fois from 2 : 3
+time 439 Node 6 receive message fois from 2 : 3
+time 440 Node 8 receive message fois from 2 : 3
+time 457 Node 0 receive message fois from 2 : 3
+time 497 Node 4 receive message fois from 2 : 3
+_________________________________________________
+time 497 Node 4 make broadcast
+time 502 Node 7 receive message fois from 4 : 5
+time 520 Node 9 receive message fois from 2 : 3
+time 535 Node 2 receive message fois from 2 : 3
+time 544 Node 5 receive message fois from 4 : 5
+time 559 Node 0 receive message fois from 4 : 5
+time 565 Node 6 receive message fois from 4 : 5
+time 567 Node 7 receive message fois from 2 : 3
+time 595 Node 9 receive message fois from 4 : 5
+time 600 Node 5 receive message plus from 4 : 5
+_________________________________________________
+time 600 Node 5 make broadcast
+time 616 Node 2 receive message fois from 4 : 5
+time 618 Node 4 receive message plus from 4 : 5
+time 619 Node 8 receive message fois from 4 : 5
+time 680 Node 4 receive message plus from 5 : 6
+time 684 Node 9 receive message plus from 4 : 5
+time 685 Node 2 receive message plus from 4 : 5
+time 697 Node 0 receive message fois from 5 : 6
+time 703 Node 4 receive message fois from 4 : 5
+time 715 Node 0 receive message plus from 4 : 5
+time 720 Node 7 receive message plus from 4 : 5
+time 762 Node 6 receive message fois from 5 : 6
+time 774 Node 6 receive message plus from 5 : 6
+_________________________________________________
+time 774 Node 6 make broadcast
+time 776 Node 8 receive message plus from 4 : 5
+time 785 Node 6 receive message plus from 4 : 5
+time 803 Node 7 receive message plus from 5 : 6
+time 811 Node 0 receive message plus from 5 : 6
+time 843 Node 7 receive message fois from 5 : 6
+time 851 Node 6 receive message plus from 6 : 7
+time 855 Node 5 receive message plus from 6 : 7
+time 858 Node 2 receive message fois from 5 : 6
+time 859 Node 2 receive message plus from 5 : 6
+time 861 Node 8 receive message plus from 5 : 6
+time 862 Node 4 receive message fois from 5 : 6
+time 872 Node 9 receive message plus from 6 : 7
+time 875 Node 8 receive message fois from 6 : 7
+time 877 Node 9 receive message plus from 5 : 6
+time 893 Node 5 receive message plus from 5 : 6
+time 895 Node 5 receive message fois from 5 : 6
+time 898 Node 4 receive message plus from 6 : 7
+time 901 Node 2 receive message plus from 6 : 7
+time 908 Node 4 receive message fois from 6 : 7
+time 909 Node 8 receive message plus from 6 : 7
+time 926 Node 7 receive message plus from 6 : 7
+time 938 Node 9 receive message fois from 5 : 6
+time 942 Node 6 receive message fois from 6 : 7
+time 950 Node 9 receive message fois from 6 : 7
+time 952 Node 0 receive message plus from 6 : 7
+time 970 Node 7 receive message fois from 6 : 7
+_________________________________________________
+time 970 Node 7 make broadcast
+time 986 Node 4 receive message fois from 7 : 8
+time 986 Node 8 receive message fois from 5 : 6
+time 987 Node 7 receive message plus from 7 : 8
+time 996 Node 6 receive message fois from 7 : 8
+time 1001 Node 2 receive message fois from 6 : 7
+time 1008 Node 5 receive message fois from 7 : 8
+time 1034 Node 7 receive message fois from 7 : 8
+time 1052 Node 9 receive message plus from 7 : 8
+time 1088 Node 5 receive message fois from 6 : 7
+time 1097 Node 0 receive message fois from 6 : 7
+time 1139 Node 2 receive message fois from 7 : 8
+time 1149 Node 0 receive message plus from 7 : 8
+time 1156 Node 2 receive message plus from 7 : 8
+time 1159 Node 0 receive message fois from 7 : 8
+time 1167 Node 9 receive message fois from 7 : 8
+time 1197 Node 5 receive message plus from 7 : 8
+time 1213 Node 6 receive message plus from 7 : 8
+time 1257 Node 8 receive message fois from 7 : 8
+time 1303 Node 4 receive message plus from 7 : 8
+time 1340 Node 8 receive message plus from 7 : 8
+_________________________________________________
+time 1340 Node 8 make broadcast
+time 1350 Node 7 receive message plus from 8 : 9
+time 1355 Node 8 receive message plus from 8 : 9
+time 1363 Node 9 receive message plus from 8 : 9
+time 1389 Node 4 receive message fois from 8 : 9
+time 1430 Node 6 receive message plus from 8 : 9
+time 1433 Node 7 receive message fois from 8 : 9
+time 1458 Node 4 receive message plus from 8 : 9
+time 1464 Node 0 receive message plus from 8 : 9
+time 1470 Node 9 receive message fois from 8 : 9
+_________________________________________________
+time 1470 Node 9 make broadcast
+time 1473 Node 5 receive message plus from 8 : 9
+time 1477 Node 2 receive message fois from 8 : 9
+time 1483 Node 6 receive message fois from 8 : 9
+time 1487 Node 7 receive message fois from 9 : 10
+time 1489 Node 5 receive message fois from 8 : 9
+time 1546 Node 8 receive message fois from 8 : 9
+time 1551 Node 6 receive message fois from 9 : 10
+time 1551 Node 0 receive message fois from 8 : 9
+time 1565 Node 9 receive message fois from 9 : 10
+time 1573 Node 0 receive message fois from 9 : 10
+time 1577 Node 2 receive message plus from 8 : 9
+time 1578 Node 0 receive message plus from 9 : 10
+time 1580 Node 8 receive message fois from 9 : 10
+time 1583 Node 9 receive message plus from 9 : 10
+time 1637 Node 2 receive message fois from 9 : 10
+time 1661 Node 4 receive message plus from 9 : 10
+time 1671 Node 7 receive message plus from 9 : 10
+time 1679 Node 8 receive message plus from 9 : 10
+time 1688 Node 2 receive message plus from 9 : 10
+time 1741 Node 6 receive message plus from 9 : 10
+time 1777 Node 5 receive message fois from 9 : 10
+time 1812 Node 4 receive message fois from 9 : 10
+time 1826 Node 5 receive message plus from 9 : 10
+EDSimulator: queue is empty, quitting at time 2310
